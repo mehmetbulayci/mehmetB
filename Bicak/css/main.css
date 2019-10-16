@@ -1,0 +1,260 @@
+html,
+body,
+#anasayfa {
+    height: 100%;
+}
+#anasayfa{
+    background: url(../image/anasayfa.jpg) no-repeat center center fixed;
+    background-size: cover;
+    -webkit- background-size: cover;
+    -moz- background-size: cover;
+    -o- background-size: cover;
+    
+}
+
+.fixed-top{
+    max-width: 1140px;
+    margin: 20px auto;
+    transition: 0.2 all linear;
+    color: antiquewhite;
+}
+h1{
+    margin-top: 150px;
+    color: #fed136;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 150px;
+
+}
+h2{
+    padding-top: 50px;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 40px;
+    color: aliceblue;
+}
+
+#iletisim .row{
+    margin-top: 0 auto;
+    margin: 100px;
+}
+
+.photo-title {
+     font-family: 'Big Shoulders Display', cursive;
+    font-size: 55px;
+    color: black;
+    padding-bottom: 30px ;
+}
+ 
+#iletisim .col{
+    padding-bottom: 50px;
+}
+
+.btn-outline-success {
+    background-color: antiquewhite;
+}
+#crossfade .col{
+    padding-bottom: 50px;
+}
+
+.mehmet-text h9{
+    font-size: 40px;
+    font-family: 'Big Shoulders Display', cursive;
+    font-style: italic;
+    color: black;
+}
+
+#mehmett {
+    background-color: antiquewhite;
+}
+#crossfade{
+    background-color: blanchedalmond;
+}
+
+#mehmetbaba{
+    background-color: azure;
+}
+
+#mehmetbaba .row{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h7{
+    font-size: 40px;
+    font-weight: 900;
+}
+#contact{
+    background: url(../image/contact.jpg) no-repeat center center fixed;
+     background-size: cover;
+    -webkit- background-size: cover;
+    -moz- background-size: cover;
+    -o- background-size: cover;
+    padding: 120px 0;
+}
+.contact-top h11{
+     font-family: 'Merriweather', serif;
+    font-size: 60px;
+    font-weight: 900;
+    color: aliceblue;
+}
+
+.contact-top{
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    color: #777;
+    font-style: italic;
+    margin-bottom: 70px;
+}
+
+#name, #email, #subject{
+    width: 90%;
+    height: 50px;
+    margin-bottom: 26px;
+    border-style: none;
+    border-radius: 3px;
+    padding: 20px;
+    margin-left: 5%;
+}
+textarea{
+    width: 90%;
+    height: 204px;
+    border-radius: 3px;
+    padding: 15px;
+    margin-left: 5%;
+    
+}
+
+.golden-form-element{
+    
+     font-family: 'Merriweather', serif;
+    font-size: 14px;
+    font-weight: 900;
+}
+
+#contact-ana{
+    height: 100%;
+}
+
+#contact-ana{
+    background: url(../image/lalememo23.jpg) no-repeat center center fixed;
+    background-size: cover;
+    -webkit- background-size: cover;
+    -moz- background-size: cover;
+    -o- background-size: cover;
+    padding-top: 120px;
+   
+}
+.contact-top p{
+    color: aliceblue;
+    font-size: 29px;
+    font-style: italic;
+    
+}
+
+h12{
+     font-family: 'Big Shoulders Display', cursive;
+    font-size: 40px;
+    font-weight: 900;
+    font-style: italic;
+    color: black;
+}
+p1{
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.navbar{
+     
+    border-style: none;
+    border-radius: 11px;
+    margin-top: 0;
+}
+
+
+
+#belgesell{
+    padding-bottom: 30px;
+    padding-top: 0 ;
+}
+
+h18{
+   font-family: 'Big Shoulders Display', cursive;
+    font-size: 60px;
+    font-weight: 900;
+    font-style: italic;
+    color: red; 
+}
+
+#samanyolu-cards, #hobbleCards {
+    padding-top: 100px;
+}
+
+#accordion-ex {
+    padding-bottom: 80px;
+}
+
+#photo{
+    padding-top: 90px;
+    
+}
+
+#arac{
+    padding-top: 100px;
+}
+
+.card-2{
+    padding: 30px;
+}
+
+.nav-link{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 23px;
+}
+
+#iletisim .nav-link{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 23px;
+}
+#iletisim2 .nav-link{
+     font-family: 'Big Shoulders Display', cursive;
+    font-size: 23px;
+}
+
+.list-group-item{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 25px;
+}
+
+#easyLink{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card-img-overlay{
+    padding-top: 90px;
+}
+
+.card-title{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 83px;
+}
+
+.card-text{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 22px;
+}
+
+.mehmet-text h9{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 55px;
+}
+
+.card-body{
+     font-family: 'Big Shoulders Display', cursive;
+    font-size: 22px;
+}
+
+.fixed-top .change-fix-top{
+    margin-top: 0;
+    background-color:  #000;
+}
